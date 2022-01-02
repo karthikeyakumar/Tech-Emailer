@@ -1,0 +1,11 @@
+APScheduler==3.0.0
+beautifulsoup4==4.10.0
+cssutils==1.0.2
+requests==2.25.1
+yagmail==0.14.260
+bs4
+certifi
+idna
+urllib3
+chardet
+soupsieve

@@ -1,0 +1,11 @@
+1. go to directory ( If not initialized as a git repo --> git init --> git add . --> git commit -m "commit message")
+2. login :
+	heroko login -i
+3. connect to heroku : 
+	heroku git:remote -a app_name
+4. push to heroku 
+	git push heroku master
+  ------------------------------------------------Once Deployed the script will run on its own---------------------------------------------
+5. run app
+   For python scripts(for testing only) :
+	heroku python run script_name.py
